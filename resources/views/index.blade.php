@@ -4,7 +4,7 @@
 <head>
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	<meta name="author" content="SemiColonWeb" />
+	<meta name="author" content="PHP家教、博弈PHP助理工程師、PHP助理工程師、學習PHP、PHP轉正職、PHP遠端家教、程式語言家教、HTML家教、網頁學習、網頁家教、資料庫家教、SQL家教、MYSQL家教" />
 
 	<!-- Stylesheets
 	============================================= -->
@@ -22,7 +22,7 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Hero | Canvas</title>
+	<title>PHP Teacher</title>
 
 	<style>
 		@media (min-width: 992px) {
@@ -120,7 +120,7 @@
 						<h3 class="font-secondary mb-4 ls1 h3 mix-text">- PHP 家教</h3>
 						<h3 class="text-uppercase m-0 display-3 fw-bold mix-text position-relative z-2 mb-4">助理工程師</h3>
                         <h3 class="text-uppercase m-0 display-3 fw-bold mix-text position-relative z-2 mb-4">助理轉正</h3>
-						<a href="#" class="button button-black bg-danger button-xlarge m-0">聯絡我</a>
+						<a href="https://www.instagram.com/php_teacher/" class="button button-black bg-danger button-xlarge m-0">聯絡我</a>
 					</div>
 
 				</div>
@@ -156,9 +156,8 @@
 			</div>
 
 			<div class="d-flex flex-row position-absolute z-10 op-06" style="writing-mode: vertical-rl; top: 50%; transform: translateY(-50%) scale(-1); left: 40px">
-				<a href="#" class="my-3 text-black-50 ls1 text-uppercase text-smaller">Facebook</a>
-				<a href="#" class="my-3 text-black-50 ls1 text-uppercase text-smaller">Twitter</a>
-				<a href="#" class="my-3 text-black-50 ls1 text-uppercase text-smaller">Instagram</a>
+
+				<a href="https://www.instagram.com/php_teacher/" class="my-3 text-black-50 ls1 text-uppercase text-smaller">Instagram</a>
 			</div>
 
 		</section>
