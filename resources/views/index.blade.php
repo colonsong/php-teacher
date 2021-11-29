@@ -120,7 +120,7 @@
 						<h3 class="font-secondary mb-4 ls1 h3 mix-text">- PHP 家教</h3>
 						<h3 class="text-uppercase m-0 display-3 fw-bold mix-text position-relative z-2 mb-4">助理工程師</h3>
                         <h3 class="text-uppercase m-0 display-3 fw-bold mix-text position-relative z-2 mb-4">助理轉正</h3>
-						<a href="https://www.instagram.com/php_teacher/" class="button button-black bg-danger button-xlarge m-0">聯絡我</a>
+						<a href="https://www.instagram.com/php_teacher/" target="_blank" class="button button-black bg-danger button-xlarge m-0">聯絡我</a>
 					</div>
 
 				</div>
@@ -157,7 +157,7 @@
 
 			<div class="d-flex flex-row position-absolute z-10 op-06" style="writing-mode: vertical-rl; top: 50%; transform: translateY(-50%) scale(-1); left: 40px">
 
-				<a href="https://www.instagram.com/php_teacher/" class="my-3 text-black-50 ls1 text-uppercase text-smaller">Instagram</a>
+				<a href="https://www.instagram.com/php_teacher/" target="_blank" class="my-3 text-black-50 ls1 text-uppercase text-smaller">Instagram</a>
 			</div>
 
 		</section>
