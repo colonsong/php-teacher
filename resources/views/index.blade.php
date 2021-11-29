@@ -140,7 +140,7 @@
 							<div class="swiper-slide dark">
 								<div class="container">
 									<div class="slider-caption justify-content-end align-items-center" style="max-width: none;">
-										<h3 data-animate="fadeInUpSmall">Image Caption 2</h3>
+
 									</div>
 								</div>
 								<div class="swiper-slide-bg min-vh-100" style="background-image: url('images/blocks/preview/hero-14/3.jpg'); background-position: center center; background-size: cover;"></div>
@@ -149,9 +149,8 @@
 						</div>
 					</div>
 
-					<div class="slider-arrow-left"><i class="icon-angle-left"></i></div>
-					<div class="slider-arrow-right"><i class="icon-angle-right"></i></div>
-					<div class="slide-number font-secondary"><div class="slide-number-current"></div><span></span><div class="slide-number-total op-05"></div></div>
+
+
 				</div>
 			</div>
 
@@ -167,8 +166,10 @@
 		<section id="content">
 			<div class="content-wrap py-0">
 				<div class="row justify-content-center align-items-center text-center min-vh-100">
-					<div class="col-12 display-3">請在聯絡處提供你的程度、未來規劃、教學類型 <br>...</div>
+					<div class="col-12 display-3">請在聯絡處提供你的程度、未來規劃、教學類型 <br><h3>收費假日800/hr，地區台北市，可遠端</h3><br></div>
+
 				</div>
+
 			</div>
 		</section><!-- #content end -->
 
